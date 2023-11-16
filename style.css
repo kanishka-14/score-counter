@@ -1,0 +1,31 @@
+body {
+        font-family: 'Arial', sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-image: url('https://i.pinimg.com/564x/f2/32/41/f2324123ed322610368ebc8c8c871b6e.jpg'); /* Replace with the path to your image */
+        background-size: cover;
+}
+  
+  .container {
+    text-align: center;
+  }
+  
+  #stopwatch {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 1em;
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  #score {
+    margin-top: 40px;
+    font-size: 1.5em;
+  }
+  
